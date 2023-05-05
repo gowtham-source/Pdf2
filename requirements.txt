@@ -1,0 +1,13 @@
+transformers
+googletrans==3.1.0a0
+reportlab
+fpdf
+img2pdf
+PyPDF2==2.6.0 
+streamlit
+pillow
+pdfminer.six
+streamlit_drawable_canvas
+pandas
+tabula-py
+svgpathtools
