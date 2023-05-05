@@ -3,7 +3,7 @@ import os
 import streamlit as st
 # import pyperclip
 import base64
-from qrcode_gen import generate_qr
+
 
 import textwrap
 from transformers import AutoProcessor, Wav2Vec2ForCTC
