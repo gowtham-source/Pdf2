@@ -11,5 +11,4 @@ pandas
 tabula-py
 svgpathtools
 torch
-textwrap
 librosa
