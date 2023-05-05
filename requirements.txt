@@ -1,7 +1,6 @@
 transformers
 googletrans==3.1.0a0
 reportlab
-fpdf
 img2pdf
 PyPDF2==2.6.0 
 streamlit
@@ -11,3 +10,6 @@ streamlit_drawable_canvas
 pandas
 tabula-py
 svgpathtools
+torch
+textwrap
+librosa
